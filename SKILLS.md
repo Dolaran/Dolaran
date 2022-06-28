@@ -30,7 +30,7 @@
 | 🟨 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟩 github            |
 | 🟨 ...spread         |                       |                       | 🟩 global           | 🟨 node.js           |
 | 🟨 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
-| 🟨 typeof            |                       |                       | 🟩 null             |                      |
+| 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
 ## Multi-paradigm programming
 
